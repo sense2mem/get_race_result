@@ -1,0 +1,7802 @@
+[
+  {
+    "race_num": "1",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "2-3-1",
+          "payout": "¥3500"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=2=3",
+          "payout": "¥610"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "2-3",
+          "payout": "¥1260"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "2=3",
+          "payout": "¥1150"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "2=3",
+          "payout": "¥360"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "2",
+          "payout": "¥290"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "2",
+          "payout": "¥480"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "01",
+    "place_name": "桐生"
+  },
+  {
+    "race_num": "2",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "3-6-5",
+          "payout": "¥4280"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "3=5=6",
+          "payout": "¥1290"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "3-6",
+          "payout": "¥650"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "3=6",
+          "payout": "¥730"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "3=6",
+          "payout": "¥250"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "3",
+          "payout": "¥180"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "3",
+          "payout": "¥140"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "01",
+    "place_name": "桐生"
+  },
+  {
+    "race_num": "3",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-2-5",
+          "payout": "¥5310"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=2=5",
+          "payout": "¥2110"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-2",
+          "payout": "¥1230"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=2",
+          "payout": "¥1280"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=2",
+          "payout": "¥260"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥280"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥230"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "01",
+    "place_name": "桐生"
+  },
+  {
+    "race_num": "4",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "4-2-3",
+          "payout": "¥17870"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "2=3=4",
+          "payout": "¥3070"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "4-2",
+          "payout": "¥2460"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "2=4",
+          "payout": "¥960"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "2=4",
+          "payout": "¥430"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "4",
+          "payout": "¥730"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "4",
+          "payout": "¥240"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "01",
+    "place_name": "桐生"
+  },
+  {
+    "race_num": "5",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "5-6-3",
+          "payout": "¥8150"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "3=5=6",
+          "payout": "¥1520"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "5-6",
+          "payout": "¥1200"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "5=6",
+          "payout": "¥1340"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "5=6",
+          "payout": "¥390"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "5",
+          "payout": "¥590"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "5",
+          "payout": "¥220"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "01",
+    "place_name": "桐生"
+  },
+  {
+    "race_num": "6",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "3-4-5",
+          "payout": "¥15380"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "3=4=5",
+          "payout": "¥2960"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "3-4",
+          "payout": "¥4200"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "3=4",
+          "payout": "¥2290"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "3=4",
+          "payout": "¥350"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "3",
+          "payout": "¥710"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "3",
+          "payout": "¥180"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "01",
+    "place_name": "桐生"
+  },
+  {
+    "race_num": "7",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-4-2",
+          "payout": "¥3990"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=2=4",
+          "payout": "¥1080"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-4",
+          "payout": "¥930"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=4",
+          "payout": "¥1010"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=4",
+          "payout": "¥310"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥130"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥120"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "01",
+    "place_name": "桐生"
+  },
+  {
+    "race_num": "8",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "6-1-4",
+          "payout": "¥66890"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=4=6",
+          "payout": "¥2150"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "6-1",
+          "payout": "¥10320"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=6",
+          "payout": "¥2820"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=6",
+          "payout": "¥390"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "6",
+          "payout": "¥24600"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "6",
+          "payout": "¥320"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "01",
+    "place_name": "桐生"
+  },
+  {
+    "race_num": "9",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "4-1-6",
+          "payout": "¥10650"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=4=6",
+          "payout": "¥740"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "4-1",
+          "payout": "¥4430"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=4",
+          "payout": "¥1300"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=4",
+          "payout": "¥270"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "4",
+          "payout": "¥510"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "4",
+          "payout": "¥290"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "01",
+    "place_name": "桐生"
+  },
+  {
+    "race_num": "10",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "3-1-2",
+          "payout": "¥4570"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=2=3",
+          "payout": "¥390"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "3-1",
+          "payout": "¥1500"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=3",
+          "payout": "¥570"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=3",
+          "payout": "¥200"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "3",
+          "payout": "¥730"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "3",
+          "payout": "¥100"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "01",
+    "place_name": "桐生"
+  },
+  {
+    "race_num": "11",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-2-5",
+          "payout": "¥2600"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=2=5",
+          "payout": "¥1320"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-2",
+          "payout": "¥370"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=2",
+          "payout": "¥470"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=2",
+          "payout": "¥200"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥140"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥100"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "01",
+    "place_name": "桐生"
+  },
+  {
+    "race_num": "12",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-4-5",
+          "payout": "¥1610"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=4=5",
+          "payout": "¥700"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-4",
+          "payout": "¥460"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=4",
+          "payout": "¥380"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=4",
+          "payout": "¥150"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥160"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥110"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "01",
+    "place_name": "桐生"
+  },
+  {
+    "race_num": "1",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "2-3-1",
+          "payout": "¥3750"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=2=3",
+          "payout": "¥560"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "2-3",
+          "payout": "¥700"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "2=3",
+          "payout": "¥230"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "2=3",
+          "payout": "¥180"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "2",
+          "payout": "¥290"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "2",
+          "payout": "¥140"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "02",
+    "place_name": "戸田"
+  },
+  {
+    "race_num": "2",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-4-3",
+          "payout": "¥8210"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=3=4",
+          "payout": "¥2140"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-4",
+          "payout": "¥1250"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=4",
+          "payout": "¥770"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=4",
+          "payout": "¥260"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥160"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥180"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "02",
+    "place_name": "戸田"
+  },
+  {
+    "race_num": "3",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "3-5-6",
+          "payout": "¥1840"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "3=5=6",
+          "payout": "¥630"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "3-5",
+          "payout": "¥600"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "3=5",
+          "payout": "¥420"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "3=5",
+          "payout": "¥170"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "3",
+          "payout": "¥260"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "3",
+          "payout": "¥100"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "02",
+    "place_name": "戸田"
+  },
+  {
+    "race_num": "4",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "2-6-3",
+          "payout": "¥8170"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "2=3=6",
+          "payout": "¥920"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "2-6",
+          "payout": "¥2240"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "2=6",
+          "payout": "¥2250"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "2=6",
+          "payout": "¥460"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "2",
+          "payout": "¥180"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "2",
+          "payout": "¥110"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "02",
+    "place_name": "戸田"
+  },
+  {
+    "race_num": "5",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-4-2",
+          "payout": "¥1130"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=2=4",
+          "payout": "¥350"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-4",
+          "payout": "¥370"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=4",
+          "payout": "¥140"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=4",
+          "payout": "¥100"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥260"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥100"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "02",
+    "place_name": "戸田"
+  },
+  {
+    "race_num": "6",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-5-6",
+          "payout": "¥6030"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=5=6",
+          "payout": "¥1790"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-5",
+          "payout": "¥1250"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=5",
+          "payout": "¥900"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=5",
+          "payout": "¥220"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥180"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥120"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "02",
+    "place_name": "戸田"
+  },
+  {
+    "race_num": "7",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-3-2",
+          "payout": "¥960"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=2=3",
+          "payout": "¥420"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-3",
+          "payout": "¥210"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=3",
+          "payout": "¥120"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=3",
+          "payout": "¥100"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥140"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥120"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "02",
+    "place_name": "戸田"
+  },
+  {
+    "race_num": "8",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "5-4-3",
+          "payout": "¥48950"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "3=4=5",
+          "payout": "¥6540"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "5-4",
+          "payout": "¥3870"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "4=5",
+          "payout": "¥1190"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "4=5",
+          "payout": "¥350"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "5",
+          "payout": "¥1120"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "5",
+          "payout": "¥640"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "02",
+    "place_name": "戸田"
+  },
+  {
+    "race_num": "9",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "2-1-6",
+          "payout": "¥90840"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=2=6",
+          "payout": "¥9170"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "2-1",
+          "payout": "¥15470"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=2",
+          "payout": "¥2280"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=2",
+          "payout": "¥1060"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "2",
+          "payout": "¥8620"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "2",
+          "payout": "¥490"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "02",
+    "place_name": "戸田"
+  },
+  {
+    "race_num": "10",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-6-2",
+          "payout": "¥1950"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=2=6",
+          "payout": "¥410"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-6",
+          "payout": "¥1010"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=6",
+          "payout": "¥480"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=6",
+          "payout": "¥190"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥160"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥170"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "02",
+    "place_name": "戸田"
+  },
+  {
+    "race_num": "11",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-5-4",
+          "payout": "¥2490"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=4=5",
+          "payout": "¥470"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-5",
+          "payout": "¥490"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=5",
+          "payout": "¥250"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=5",
+          "payout": "¥160"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥240"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥100"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "02",
+    "place_name": "戸田"
+  },
+  {
+    "race_num": "12",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-2-6",
+          "payout": "¥2340"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=2=6",
+          "payout": "¥970"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-2",
+          "payout": "¥690"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=2",
+          "payout": "¥440"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=2",
+          "payout": "¥230"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥100"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥120"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "02",
+    "place_name": "戸田"
+  },
+  {
+    "race_num": "1",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-2-4",
+          "payout": "¥2580"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=2=4",
+          "payout": "¥840"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-2",
+          "payout": "¥530"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=2",
+          "payout": "¥600"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=2",
+          "payout": "¥330"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥1140"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥170"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "03",
+    "place_name": "江戸川"
+  },
+  {
+    "race_num": "2",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "3-4-1",
+          "payout": "¥2400"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=3=4",
+          "payout": "¥460"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "3-4",
+          "payout": "¥970"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "3=4",
+          "payout": "¥940"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "3=4",
+          "payout": "¥150"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "3",
+          "payout": "¥260"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "3",
+          "payout": "¥260"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "03",
+    "place_name": "江戸川"
+  },
+  {
+    "race_num": "3",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-2-3",
+          "payout": "¥2670"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=2=3",
+          "payout": "¥820"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-2",
+          "payout": "¥390"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=2",
+          "payout": "¥240"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=2",
+          "payout": "¥160"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥130"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥150"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "03",
+    "place_name": "江戸川"
+  },
+  {
+    "race_num": "4",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "4-2-3",
+          "payout": "¥20020"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "2=3=4",
+          "payout": "¥930"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "4-2",
+          "payout": "¥7470"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "2=4",
+          "payout": "¥2480"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "2=4",
+          "payout": "¥710"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "4",
+          "payout": "¥2430"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "4",
+          "payout": "¥540"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "03",
+    "place_name": "江戸川"
+  },
+  {
+    "race_num": "5",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "3-6-5",
+          "payout": "¥26270"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "3=5=6",
+          "payout": "¥5190"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "3-6",
+          "payout": "¥4200"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "3=6",
+          "payout": "¥4020"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "3=6",
+          "payout": "¥790"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "3",
+          "payout": "¥300"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "3",
+          "payout": "¥250"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "03",
+    "place_name": "江戸川"
+  },
+  {
+    "race_num": "6",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-5-4",
+          "payout": "¥2910"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=4=5",
+          "payout": "¥850"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-5",
+          "payout": "¥840"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=5",
+          "payout": "¥800"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=5",
+          "payout": "¥160"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥100"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥100"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "03",
+    "place_name": "江戸川"
+  },
+  {
+    "race_num": "7",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "4-5-1",
+          "payout": "¥4240"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=4=5",
+          "payout": "¥330"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "4-5",
+          "payout": "¥2160"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "4=5",
+          "payout": "¥880"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "4=5",
+          "payout": "¥280"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "4",
+          "payout": "¥790"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "4",
+          "payout": "¥330"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "03",
+    "place_name": "江戸川"
+  },
+  {
+    "race_num": "8",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-3-4",
+          "payout": "¥1370"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=3=4",
+          "payout": "¥630"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-3",
+          "payout": "¥390"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=3",
+          "payout": "¥410"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=3",
+          "payout": "¥110"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥120"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥100"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "03",
+    "place_name": "江戸川"
+  },
+  {
+    "race_num": "9",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-3-6",
+          "payout": "¥2520"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=3=6",
+          "payout": "¥1360"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-3",
+          "payout": "¥180"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=3",
+          "payout": "¥190"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=3",
+          "payout": "¥100"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥130"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥100"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "03",
+    "place_name": "江戸川"
+  },
+  {
+    "race_num": "10",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-6-5",
+          "payout": "¥5770"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=5=6",
+          "payout": "¥1010"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-6",
+          "payout": "¥2010"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=6",
+          "payout": "¥1540"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=6",
+          "payout": "¥300"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥160"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥110"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "03",
+    "place_name": "江戸川"
+  },
+  {
+    "race_num": "11",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "4-1-2",
+          "payout": "¥4080"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=2=4",
+          "payout": "¥400"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "4-1",
+          "payout": "¥1550"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=4",
+          "payout": "¥420"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=4",
+          "payout": "¥100"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "4",
+          "payout": "¥450"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "4",
+          "payout": "¥190"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "03",
+    "place_name": "江戸川"
+  },
+  {
+    "race_num": "12",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-3-5",
+          "payout": "¥2150"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=3=5",
+          "payout": "¥1010"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-3",
+          "payout": "¥300"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=3",
+          "payout": "¥210"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=3",
+          "payout": "¥130"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥110"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥120"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "03",
+    "place_name": "江戸川"
+  },
+  {
+    "race_num": "1",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "3-4-1",
+          "payout": "¥2240"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=3=4",
+          "payout": "¥670"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "3-4",
+          "payout": "¥520"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "3=4",
+          "payout": "¥380"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "3=4",
+          "payout": "¥310"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "3",
+          "payout": "¥160"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "3",
+          "payout": "¥110"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "04",
+    "place_name": "平和島"
+  },
+  {
+    "race_num": "2",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-2-5",
+          "payout": "¥1310"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=2=5",
+          "payout": "¥650"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-2",
+          "payout": "¥390"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=2",
+          "payout": "¥260"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=2",
+          "payout": "¥190"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥100"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥100"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "04",
+    "place_name": "平和島"
+  },
+  {
+    "race_num": "3",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "5-6-3",
+          "payout": "¥4440"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "3=5=6",
+          "payout": "¥930"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "5-6",
+          "payout": "¥1720"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "5=6",
+          "payout": "¥1280"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "5=6",
+          "payout": "¥340"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "5",
+          "payout": "¥270"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "5",
+          "payout": "¥150"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "04",
+    "place_name": "平和島"
+  },
+  {
+    "race_num": "4",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "2-5-6",
+          "payout": "¥11130"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "2=5=6",
+          "payout": "¥2660"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "2-5",
+          "payout": "¥2870"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "2=5",
+          "payout": "¥920"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "2=5",
+          "payout": "¥350"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "2",
+          "payout": "¥460"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "2",
+          "payout": "¥360"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "04",
+    "place_name": "平和島"
+  },
+  {
+    "race_num": "5",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "3-4-2",
+          "payout": "¥3450"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "2=3=4",
+          "payout": "¥1130"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "3-4",
+          "payout": "¥480"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "3=4",
+          "payout": "¥430"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "3=4",
+          "payout": "¥160"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "3",
+          "payout": "¥170"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "3",
+          "payout": "¥100"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "04",
+    "place_name": "平和島"
+  },
+  {
+    "race_num": "6",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "4-2-5",
+          "payout": "¥15480"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "2=4=5",
+          "payout": "¥2130"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "4-2",
+          "payout": "¥4130"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "2=4",
+          "payout": "¥2170"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "2=4",
+          "payout": "¥470"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "4",
+          "payout": "¥400"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "4",
+          "payout": "¥890"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "04",
+    "place_name": "平和島"
+  },
+  {
+    "race_num": "7",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "4-2-1",
+          "payout": "¥5600"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=2=4",
+          "payout": "¥350"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "4-2",
+          "payout": "¥2190"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "2=4",
+          "payout": "¥360"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "2=4",
+          "payout": "¥130"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "4",
+          "payout": "¥1830"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "4",
+          "payout": "¥180"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "04",
+    "place_name": "平和島"
+  },
+  {
+    "race_num": "8",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "4-1-5",
+          "payout": "¥1020"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=4=5",
+          "payout": "¥200"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "4-1",
+          "payout": "¥330"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=4",
+          "payout": "¥180"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=4",
+          "payout": "¥120"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "4",
+          "payout": "¥230"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "4",
+          "payout": "¥100"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "04",
+    "place_name": "平和島"
+  },
+  {
+    "race_num": "9",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-3-6",
+          "payout": "¥11580"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=3=6",
+          "payout": "¥2090"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-3",
+          "payout": "¥1280"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=3",
+          "payout": "¥1020"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=3",
+          "payout": "¥570"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥220"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥230"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "04",
+    "place_name": "平和島"
+  },
+  {
+    "race_num": "10",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-4-5",
+          "payout": "¥1470"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=4=5",
+          "payout": "¥470"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-4",
+          "payout": "¥420"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=4",
+          "payout": "¥150"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=4",
+          "payout": "¥150"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥190"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥180"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "04",
+    "place_name": "平和島"
+  },
+  {
+    "race_num": "11",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "4-5-6",
+          "payout": "¥8430"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "4=5=6",
+          "payout": "¥3000"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "4-5",
+          "payout": "¥3090"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "4=5",
+          "payout": "¥1990"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "4=5",
+          "payout": "¥670"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "4",
+          "payout": "¥220"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "4",
+          "payout": "¥140"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "04",
+    "place_name": "平和島"
+  },
+  {
+    "race_num": "12",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "3-4-2",
+          "payout": "¥16870"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "2=3=4",
+          "payout": "¥3730"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "3-4",
+          "payout": "¥3090"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "3=4",
+          "payout": "¥1680"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "3=4",
+          "payout": "¥400"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "3",
+          "payout": "¥510"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "3",
+          "payout": "¥450"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "04",
+    "place_name": "平和島"
+  },
+  {
+    "race_num": "1",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-4-2",
+          "payout": "¥2960"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=2=4",
+          "payout": "¥710"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-4",
+          "payout": "¥950"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=4",
+          "payout": "¥690"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=4",
+          "payout": "¥260"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥170"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥130"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "06",
+    "place_name": "浜名湖"
+  },
+  {
+    "race_num": "2",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "2-1-3",
+          "payout": "¥7940"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=2=3",
+          "payout": "¥1090"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "2-1",
+          "payout": "¥2330"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=2",
+          "payout": "¥620"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=2",
+          "payout": "¥220"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "2",
+          "payout": "¥1110"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "2",
+          "payout": "¥190"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "06",
+    "place_name": "浜名湖"
+  },
+  {
+    "race_num": "3",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-2-4",
+          "payout": "¥1780"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=2=4",
+          "payout": "¥670"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-2",
+          "payout": "¥530"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=2",
+          "payout": "¥360"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=2",
+          "payout": "¥150"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥140"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥100"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "06",
+    "place_name": "浜名湖"
+  },
+  {
+    "race_num": "4",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-3-2",
+          "payout": "¥1740"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=2=3",
+          "payout": "¥610"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-3",
+          "payout": "¥470"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=3",
+          "payout": "¥470"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=3",
+          "payout": "¥240"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥140"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥100"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "06",
+    "place_name": "浜名湖"
+  },
+  {
+    "race_num": "5",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "5-1-2",
+          "payout": "¥4030"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=2=5",
+          "payout": "¥410"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "5-1",
+          "payout": "¥1620"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=5",
+          "payout": "¥660"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=5",
+          "payout": "¥150"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "5",
+          "payout": "¥430"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "5",
+          "payout": "¥210"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "06",
+    "place_name": "浜名湖"
+  },
+  {
+    "race_num": "6",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "2-1-5",
+          "payout": "¥7180"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=2=5",
+          "payout": "¥1970"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "2-1",
+          "payout": "¥1110"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=2",
+          "payout": "¥450"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=2",
+          "payout": "¥270"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "2",
+          "payout": "¥630"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "2",
+          "payout": "¥170"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "06",
+    "place_name": "浜名湖"
+  },
+  {
+    "race_num": "7",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-2-4",
+          "payout": "¥4800"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=2=4",
+          "payout": "¥2280"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-2",
+          "payout": "¥890"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=2",
+          "payout": "¥840"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=2",
+          "payout": "¥370"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥160"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥100"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "06",
+    "place_name": "浜名湖"
+  },
+  {
+    "race_num": "8",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-2-4",
+          "payout": "¥1730"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=2=4",
+          "payout": "¥500"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-2",
+          "payout": "¥780"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=2",
+          "payout": "¥650"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=2",
+          "payout": "¥210"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥120"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥130"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "06",
+    "place_name": "浜名湖"
+  },
+  {
+    "race_num": "9",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "2-6-1",
+          "payout": "¥51200"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=2=6",
+          "payout": "¥1640"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "2-6",
+          "payout": "¥15230"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "2=6",
+          "payout": "¥5880"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "2=6",
+          "payout": "¥900"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "2",
+          "payout": "¥1040"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "2",
+          "payout": "¥670"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "06",
+    "place_name": "浜名湖"
+  },
+  {
+    "race_num": "10",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-4-3",
+          "payout": "¥2000"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=3=4",
+          "payout": "¥700"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-4",
+          "payout": "¥430"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=4",
+          "payout": "¥270"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=4",
+          "payout": "¥130"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥240"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥110"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "06",
+    "place_name": "浜名湖"
+  },
+  {
+    "race_num": "11",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-4-2",
+          "payout": "¥750"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=2=4",
+          "payout": "¥240"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-4",
+          "payout": "¥350"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=4",
+          "payout": "¥300"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=4",
+          "payout": "¥130"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥120"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥100"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "06",
+    "place_name": "浜名湖"
+  },
+  {
+    "race_num": "12",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "3-6-2",
+          "payout": "¥81170"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "2=3=6",
+          "payout": "¥6340"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "3-6",
+          "payout": "¥10560"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "3=6",
+          "payout": "¥5350"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "3=6",
+          "payout": "¥1220"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "3",
+          "payout": "¥890"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "3",
+          "payout": "¥390"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "06",
+    "place_name": "浜名湖"
+  },
+  {
+    "race_num": "1",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-3-2",
+          "payout": "¥400"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=2=3",
+          "payout": "¥140"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-3",
+          "payout": "¥180"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=3",
+          "payout": "¥170"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=3",
+          "payout": "¥110"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥100"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥100"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "09",
+    "place_name": "津"
+  },
+  {
+    "race_num": "2",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "2-1-3",
+          "payout": "¥5270"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=2=3",
+          "payout": "¥1620"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "2-1",
+          "payout": "¥440"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=2",
+          "payout": "¥140"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=2",
+          "payout": "¥120"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "2",
+          "payout": "¥220"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "2",
+          "payout": "¥110"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "09",
+    "place_name": "津"
+  },
+  {
+    "race_num": "3",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "4-3-5",
+          "payout": "¥3430"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "3=4=5",
+          "payout": "¥790"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "4-3",
+          "payout": "¥910"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "3=4",
+          "payout": "¥340"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "3=4",
+          "payout": "¥230"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "4",
+          "payout": "¥210"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "4",
+          "payout": "¥110"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "09",
+    "place_name": "津"
+  },
+  {
+    "race_num": "4",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-4-2",
+          "payout": "¥930"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=2=4",
+          "payout": "¥300"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-4",
+          "payout": "¥700"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=4",
+          "payout": "¥600"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=4",
+          "payout": "¥120"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥300"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥180"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "09",
+    "place_name": "津"
+  },
+  {
+    "race_num": "5",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-3-5",
+          "payout": "¥2250"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=3=5",
+          "payout": "¥1380"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-3",
+          "payout": "¥250"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=3",
+          "payout": "¥170"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=3",
+          "payout": "¥110"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥100"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥100"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "09",
+    "place_name": "津"
+  },
+  {
+    "race_num": "6",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "3-4-5",
+          "payout": "¥1380"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "3=4=5",
+          "payout": "¥200"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "3-4",
+          "payout": "¥600"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "3=4",
+          "payout": "¥420"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "3=4",
+          "payout": "¥190"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "3",
+          "payout": "¥100"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "3",
+          "payout": "¥150"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "09",
+    "place_name": "津"
+  },
+  {
+    "race_num": "7",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "3-1-2",
+          "payout": "¥4320"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=2=3",
+          "payout": "¥530"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "3-1",
+          "payout": "¥1400"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=3",
+          "payout": "¥820"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=3",
+          "payout": "¥170"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "3",
+          "payout": "¥260"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "3",
+          "payout": "¥220"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "09",
+    "place_name": "津"
+  },
+  {
+    "race_num": "8",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-5-4",
+          "payout": "¥3070"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=4=5",
+          "payout": "¥870"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-5",
+          "payout": "¥390"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=5",
+          "payout": "¥630"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=5",
+          "payout": "¥200"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥100"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥100"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "09",
+    "place_name": "津"
+  },
+  {
+    "race_num": "9",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-2-6",
+          "payout": "¥530"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=2=6",
+          "payout": "¥300"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-2",
+          "payout": "¥170"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=2",
+          "payout": "¥110"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=2",
+          "payout": "¥100"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥130"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥100"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "09",
+    "place_name": "津"
+  },
+  {
+    "race_num": "10",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "5-1-6",
+          "payout": "¥5370"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=5=6",
+          "payout": "¥2950"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "5-1",
+          "payout": "¥1680"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=5",
+          "payout": "¥910"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=5",
+          "payout": "¥530"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "5",
+          "payout": "¥500"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "5",
+          "payout": "¥940"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "09",
+    "place_name": "津"
+  },
+  {
+    "race_num": "11",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-4-3",
+          "payout": "¥3280"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=3=4",
+          "payout": "¥880"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-4",
+          "payout": "¥1190"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=4",
+          "payout": "¥1030"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=4",
+          "payout": "¥310"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥160"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥170"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "09",
+    "place_name": "津"
+  },
+  {
+    "race_num": "12",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-3-4",
+          "payout": "¥670"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=3=4",
+          "payout": "¥380"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-3",
+          "payout": "¥240"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=3",
+          "payout": "¥300"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=3",
+          "payout": "¥120"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥120"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥110"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "09",
+    "place_name": "津"
+  },
+  {
+    "race_num": "1",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-3-2",
+          "payout": "¥550"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=2=3",
+          "payout": "¥210"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-3",
+          "payout": "¥230"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=3",
+          "payout": "¥170"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=3",
+          "payout": "¥100"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥100"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥100"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "14",
+    "place_name": "鳴門"
+  },
+  {
+    "race_num": "2",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "4-6-2",
+          "payout": "¥5390"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "2=4=6",
+          "payout": "¥700"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "4-6",
+          "payout": "¥2150"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "4=6",
+          "payout": "¥1670"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "4=6",
+          "payout": "¥470"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "4",
+          "payout": "¥580"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "4",
+          "payout": "¥190"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "14",
+    "place_name": "鳴門"
+  },
+  {
+    "race_num": "3",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-5-6",
+          "payout": "¥1400"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=5=6",
+          "payout": "¥840"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-5",
+          "payout": "¥420"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=5",
+          "payout": "¥420"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=5",
+          "payout": "¥110"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥110"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥100"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "14",
+    "place_name": "鳴門"
+  },
+  {
+    "race_num": "4",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-4-5",
+          "payout": "¥1490"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=4=5",
+          "payout": "¥420"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-4",
+          "payout": "¥1130"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=4",
+          "payout": "¥590"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=4",
+          "payout": "¥240"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥180"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥100"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "14",
+    "place_name": "鳴門"
+  },
+  {
+    "race_num": "5",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "2-4-3",
+          "payout": "¥2590"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "2=3=4",
+          "payout": "¥530"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "2-4",
+          "payout": "¥980"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "2=4",
+          "payout": "¥370"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "2=4",
+          "payout": "¥180"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "2",
+          "payout": "¥370"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "2",
+          "payout": "¥130"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "14",
+    "place_name": "鳴門"
+  },
+  {
+    "race_num": "6",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "3-4-5",
+          "payout": "¥5340"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "3=4=5",
+          "payout": "¥840"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "3-4",
+          "payout": "¥2250"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "3=4",
+          "payout": "¥1260"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "3=4",
+          "payout": "¥290"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "3",
+          "payout": "¥490"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "3",
+          "payout": "¥530"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "14",
+    "place_name": "鳴門"
+  },
+  {
+    "race_num": "7",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "4-5-6",
+          "payout": "¥10790"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "4=5=6",
+          "payout": "¥4670"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "4-5",
+          "payout": "¥1640"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "4=5",
+          "payout": "¥1010"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "4=5",
+          "payout": "¥320"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "4",
+          "payout": "¥510"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "4",
+          "payout": "¥470"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "14",
+    "place_name": "鳴門"
+  },
+  {
+    "race_num": "8",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "2-5-1",
+          "payout": "¥3980"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=2=5",
+          "payout": "¥530"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "2-5",
+          "payout": "¥740"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "2=5",
+          "payout": "¥500"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "2=5",
+          "payout": "¥310"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "2",
+          "payout": "¥380"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "2",
+          "payout": "¥140"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "14",
+    "place_name": "鳴門"
+  },
+  {
+    "race_num": "9",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-3-4",
+          "payout": "¥3560"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=3=4",
+          "payout": "¥1950"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-3",
+          "payout": "¥1120"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=3",
+          "payout": "¥960"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=3",
+          "payout": "¥190"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥120"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥100"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "14",
+    "place_name": "鳴門"
+  },
+  {
+    "race_num": "10",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-3-4",
+          "payout": "¥1240"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=3=4",
+          "payout": "¥380"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-3",
+          "payout": "¥370"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=3",
+          "payout": "¥220"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=3",
+          "payout": "¥120"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥220"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥120"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "14",
+    "place_name": "鳴門"
+  },
+  {
+    "race_num": "11",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "3-1-6",
+          "payout": "¥5530"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=3=6",
+          "payout": "¥600"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "3-1",
+          "payout": "¥910"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=3",
+          "payout": "¥140"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=3",
+          "payout": "¥130"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "3",
+          "payout": "¥340"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "3",
+          "payout": "¥140"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "14",
+    "place_name": "鳴門"
+  },
+  {
+    "race_num": "12",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-5-2",
+          "payout": "¥2010"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=2=5",
+          "payout": "¥560"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-5",
+          "payout": "¥730"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=5",
+          "payout": "¥650"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=5",
+          "payout": "¥200"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥140"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥100"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "14",
+    "place_name": "鳴門"
+  },
+  {
+    "race_num": "1",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-3-5",
+          "payout": "¥1690"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=3=5",
+          "payout": "¥1120"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-3",
+          "payout": "¥430"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=3",
+          "payout": "¥280"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=3",
+          "payout": "¥110"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥160"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥110"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "15",
+    "place_name": "丸亀"
+  },
+  {
+    "race_num": "2",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-3-2",
+          "payout": "¥1240"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=2=3",
+          "payout": "¥510"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-3",
+          "payout": "¥370"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=3",
+          "payout": "¥450"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=3",
+          "payout": "¥180"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥150"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥180"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "15",
+    "place_name": "丸亀"
+  },
+  {
+    "race_num": "3",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "3-5-6",
+          "payout": "¥6270"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "3=5=6",
+          "payout": "¥1120"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "3-5",
+          "payout": "¥2630"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "3=5",
+          "payout": "¥1750"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "3=5",
+          "payout": "¥650"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "3",
+          "payout": "¥590"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "3",
+          "payout": "¥350"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "15",
+    "place_name": "丸亀"
+  },
+  {
+    "race_num": "4",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-3-6",
+          "payout": "¥1620"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=3=6",
+          "payout": "¥760"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-3",
+          "payout": "¥500"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=3",
+          "payout": "¥260"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=3",
+          "payout": "¥170"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥290"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥140"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "15",
+    "place_name": "丸亀"
+  },
+  {
+    "race_num": "5",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-2-3",
+          "payout": "¥1700"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=2=3",
+          "payout": "¥570"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-2",
+          "payout": "¥720"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=2",
+          "payout": "¥400"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=2",
+          "payout": "¥150"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥190"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥190"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "15",
+    "place_name": "丸亀"
+  },
+  {
+    "race_num": "6",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "3-6-5",
+          "payout": "¥52410"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "3=5=6",
+          "payout": "¥10320"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "3-6",
+          "payout": "¥9240"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "3=6",
+          "payout": "¥9470"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "3=6",
+          "payout": "¥800"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "3",
+          "payout": "¥540"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "3",
+          "payout": "¥260"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "15",
+    "place_name": "丸亀"
+  },
+  {
+    "race_num": "7",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-4-5",
+          "payout": "¥950"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=4=5",
+          "payout": "¥380"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-4",
+          "payout": "¥300"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=4",
+          "payout": "¥130"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=4",
+          "payout": "¥140"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥160"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥110"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "15",
+    "place_name": "丸亀"
+  },
+  {
+    "race_num": "8",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-5-3",
+          "payout": "¥13340"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=3=5",
+          "payout": "¥2400"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-5",
+          "payout": "¥2880"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=5",
+          "payout": "¥2340"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=5",
+          "payout": "¥710"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥100"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥100"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "15",
+    "place_name": "丸亀"
+  },
+  {
+    "race_num": "9",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-3-6",
+          "payout": "¥3320"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=3=6",
+          "payout": "¥1500"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-3",
+          "payout": "¥300"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=3",
+          "payout": "¥180"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=3",
+          "payout": "¥110"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥100"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥100"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "15",
+    "place_name": "丸亀"
+  },
+  {
+    "race_num": "10",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-4-3",
+          "payout": "¥3390"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=3=4",
+          "payout": "¥790"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-4",
+          "payout": "¥1070"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=4",
+          "payout": "¥900"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=4",
+          "payout": "¥270"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥150"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥100"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "15",
+    "place_name": "丸亀"
+  },
+  {
+    "race_num": "11",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-2-3",
+          "payout": "¥850"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=2=3",
+          "payout": "¥270"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-2",
+          "payout": "¥360"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=2",
+          "payout": "¥280"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=2",
+          "payout": "¥130"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥120"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥100"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "15",
+    "place_name": "丸亀"
+  },
+  {
+    "race_num": "12",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-3-4",
+          "payout": "¥830"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=3=4",
+          "payout": "¥300"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-3",
+          "payout": "¥330"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=3",
+          "payout": "¥310"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=3",
+          "payout": "¥100"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥170"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥250"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "15",
+    "place_name": "丸亀"
+  },
+  {
+    "race_num": "1",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "5-6-3",
+          "payout": "¥9960"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "3=5=6",
+          "payout": "¥1840"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "5-6",
+          "payout": "¥2340"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "5=6",
+          "payout": "¥2570"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "5=6",
+          "payout": "¥570"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "5",
+          "payout": "¥430"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "5",
+          "payout": "¥270"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "17",
+    "place_name": "宮島"
+  },
+  {
+    "race_num": "2",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "2-5-4",
+          "payout": "¥51010"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "2=4=5",
+          "payout": "¥7190"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "2-5",
+          "payout": "¥8840"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "2=5",
+          "payout": "¥4800"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "2=5",
+          "payout": "¥1560"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "2",
+          "payout": "¥910"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "2",
+          "payout": "¥760"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "17",
+    "place_name": "宮島"
+  },
+  {
+    "race_num": "3",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-2-3",
+          "payout": "¥5350"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=2=3",
+          "payout": "¥1280"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-2",
+          "payout": "¥1620"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=2",
+          "payout": "¥1230"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=2",
+          "payout": "¥520"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥130"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥140"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "17",
+    "place_name": "宮島"
+  },
+  {
+    "race_num": "4",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-6-3",
+          "payout": "¥1310"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=3=6",
+          "payout": "¥540"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-6",
+          "payout": "¥340"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=6",
+          "payout": "¥180"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=6",
+          "payout": "¥170"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥130"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥110"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "17",
+    "place_name": "宮島"
+  },
+  {
+    "race_num": "5",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-3-4",
+          "payout": "¥1950"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=3=4",
+          "payout": "¥590"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-3",
+          "payout": "¥1220"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=3",
+          "payout": "¥600"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=3",
+          "payout": "¥320"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥230"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥180"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "17",
+    "place_name": "宮島"
+  },
+  {
+    "race_num": "6",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-4-3",
+          "payout": "¥6130"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=3=4",
+          "payout": "¥1610"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-4",
+          "payout": "¥1600"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=4",
+          "payout": "¥1720"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=4",
+          "payout": "¥620"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥260"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥140"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "17",
+    "place_name": "宮島"
+  },
+  {
+    "race_num": "7",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-3-4",
+          "payout": "¥2110"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=3=4",
+          "payout": "¥1360"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-3",
+          "payout": "¥850"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=3",
+          "payout": "¥590"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=3",
+          "payout": "¥220"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥100"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥160"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "17",
+    "place_name": "宮島"
+  },
+  {
+    "race_num": "8",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-3-2",
+          "payout": "¥1060"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=2=3",
+          "payout": "¥440"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-3",
+          "payout": "¥290"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=3",
+          "payout": "¥240"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=3",
+          "payout": "¥150"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥190"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥100"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "17",
+    "place_name": "宮島"
+  },
+  {
+    "race_num": "9",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "5-1-6",
+          "payout": "¥29060"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=5=6",
+          "payout": "¥1480"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "5-1",
+          "payout": "¥7770"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=5",
+          "payout": "¥940"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=5",
+          "payout": "¥360"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "5",
+          "payout": "¥20020"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "5",
+          "payout": "¥400"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "17",
+    "place_name": "宮島"
+  },
+  {
+    "race_num": "10",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-2-5",
+          "payout": "¥1910"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=2=5",
+          "payout": "¥810"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-2",
+          "payout": "¥260"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=2",
+          "payout": "¥180"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=2",
+          "payout": "¥150"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥260"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥110"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "17",
+    "place_name": "宮島"
+  },
+  {
+    "race_num": "11",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-5-3",
+          "payout": "¥3020"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=3=5",
+          "payout": "¥820"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-5",
+          "payout": "¥830"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=5",
+          "payout": "¥1020"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=5",
+          "payout": "¥370"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥100"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥130"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "17",
+    "place_name": "宮島"
+  },
+  {
+    "race_num": "12",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-2-3",
+          "payout": "¥600"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=2=3",
+          "payout": "¥300"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-2",
+          "payout": "¥190"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=2",
+          "payout": "¥190"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=2",
+          "payout": "¥160"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥100"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥100"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "17",
+    "place_name": "宮島"
+  },
+  {
+    "race_num": "1",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "2-1-5",
+          "payout": "¥11790"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=2=5",
+          "payout": "¥2010"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "2-1",
+          "payout": "¥480"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=2",
+          "payout": "¥210"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=2",
+          "payout": "¥140"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "2",
+          "payout": "¥220"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "2",
+          "payout": "¥120"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "20",
+    "place_name": "若松"
+  },
+  {
+    "race_num": "2",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "6-1-4",
+          "payout": "¥12870"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=4=6",
+          "payout": "¥1080"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "6-1",
+          "payout": "¥2680"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=6",
+          "payout": "¥710"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=6",
+          "payout": "¥200"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "6",
+          "payout": "¥480"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "6",
+          "payout": "¥100"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "20",
+    "place_name": "若松"
+  },
+  {
+    "race_num": "3",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "4-1-3",
+          "payout": "¥8730"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=3=4",
+          "payout": "¥690"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "4-1",
+          "payout": "¥1490"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=4",
+          "payout": "¥1250"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=4",
+          "payout": "¥340"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "4",
+          "payout": "¥500"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "4",
+          "payout": "¥200"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "20",
+    "place_name": "若松"
+  },
+  {
+    "race_num": "4",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-5-2",
+          "payout": "¥3120"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=2=5",
+          "payout": "¥420"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-5",
+          "payout": "¥1140"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=5",
+          "payout": "¥660"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=5",
+          "payout": "¥290"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥170"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥100"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "20",
+    "place_name": "若松"
+  },
+  {
+    "race_num": "5",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-4-2",
+          "payout": "¥610"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=2=4",
+          "payout": "¥240"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-4",
+          "payout": "¥310"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=4",
+          "payout": "¥280"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=4",
+          "payout": "¥110"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥110"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥100"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "20",
+    "place_name": "若松"
+  },
+  {
+    "race_num": "6",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "6-1-2",
+          "payout": "¥2500"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=2=6",
+          "payout": "¥320"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "6-1",
+          "payout": "¥730"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=6",
+          "payout": "¥260"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=6",
+          "payout": "¥120"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "6",
+          "payout": "¥270"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "6",
+          "payout": "¥100"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "20",
+    "place_name": "若松"
+  },
+  {
+    "race_num": "7",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-4-5",
+          "payout": "¥5610"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=4=5",
+          "payout": "¥1010"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-4",
+          "payout": "¥570"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=4",
+          "payout": "¥130"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=4",
+          "payout": "¥160"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥290"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥140"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "20",
+    "place_name": "若松"
+  },
+  {
+    "race_num": "8",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "5-1-3",
+          "payout": "¥14810"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=3=5",
+          "payout": "¥590"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "5-1",
+          "payout": "¥5890"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=5",
+          "payout": "¥1010"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=5",
+          "payout": "¥280"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "5",
+          "payout": "¥710"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "5",
+          "payout": "¥600"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "20",
+    "place_name": "若松"
+  },
+  {
+    "race_num": "9",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "5-1-3",
+          "payout": "¥12110"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=3=5",
+          "payout": "¥1210"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "5-1",
+          "payout": "¥1380"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=5",
+          "payout": "¥380"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=5",
+          "payout": "¥220"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "5",
+          "payout": "¥540"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "5",
+          "payout": "¥210"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "20",
+    "place_name": "若松"
+  },
+  {
+    "race_num": "10",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-5-2",
+          "payout": "¥2470"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=2=5",
+          "payout": "¥500"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-5",
+          "payout": "¥690"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=5",
+          "payout": "¥390"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=5",
+          "payout": "¥190"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥190"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥150"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "20",
+    "place_name": "若松"
+  },
+  {
+    "race_num": "11",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "4-2-3",
+          "payout": "¥18180"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "2=3=4",
+          "payout": "¥1180"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "4-2",
+          "payout": "¥6360"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "2=4",
+          "payout": "¥3750"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "2=4",
+          "payout": "¥500"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "4",
+          "payout": "¥1080"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "4",
+          "payout": "¥350"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "20",
+    "place_name": "若松"
+  },
+  {
+    "race_num": "12",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-2-6",
+          "payout": "¥2250"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=2=6",
+          "payout": "¥1700"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-2",
+          "payout": "¥250"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=2",
+          "payout": "¥290"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=2",
+          "payout": "¥220"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥100"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥100"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "20",
+    "place_name": "若松"
+  },
+  {
+    "race_num": "1",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "3-2-1",
+          "payout": "¥9690"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=2=3",
+          "payout": "¥320"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "3-2",
+          "payout": "¥4180"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "2=3",
+          "payout": "¥1750"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "2=3",
+          "payout": "¥250"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "3",
+          "payout": "¥1010"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "3",
+          "payout": "¥320"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "21",
+    "place_name": "芦屋"
+  },
+  {
+    "race_num": "2",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "4-1-3",
+          "payout": "¥2310"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=3=4",
+          "payout": "¥400"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "4-1",
+          "payout": "¥460"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=4",
+          "payout": "¥170"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=4",
+          "payout": "¥120"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "4",
+          "payout": "¥370"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "4",
+          "payout": "¥120"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "21",
+    "place_name": "芦屋"
+  },
+  {
+    "race_num": "3",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-5-3",
+          "payout": "¥5280"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=3=5",
+          "payout": "¥250"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-5",
+          "payout": "¥3450"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=5",
+          "payout": "¥1760"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=5",
+          "payout": "¥200"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥280"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥190"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "21",
+    "place_name": "芦屋"
+  },
+  {
+    "race_num": "4",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-2-5",
+          "payout": "¥2270"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=2=5",
+          "payout": "¥1070"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-2",
+          "payout": "¥510"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=2",
+          "payout": "¥550"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=2",
+          "payout": "¥290"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥100"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥100"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "21",
+    "place_name": "芦屋"
+  },
+  {
+    "race_num": "5",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-3-5",
+          "payout": "¥1790"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=3=5",
+          "payout": "¥1180"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-3",
+          "payout": "¥350"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=3",
+          "payout": "¥210"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=3",
+          "payout": "¥180"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥100"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥100"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "21",
+    "place_name": "芦屋"
+  },
+  {
+    "race_num": "6",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "6-4-2",
+          "payout": "¥15990"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "2=4=6",
+          "payout": "¥900"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "6-4",
+          "payout": "¥4960"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "4=6",
+          "payout": "¥1920"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "4=6",
+          "payout": "¥480"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "6",
+          "payout": "¥480"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "6",
+          "payout": "¥180"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "21",
+    "place_name": "芦屋"
+  },
+  {
+    "race_num": "7",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "2-4-1",
+          "payout": "¥19550"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=2=4",
+          "payout": "¥1270"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "2-4",
+          "payout": "¥4940"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "2=4",
+          "payout": "¥3120"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "2=4",
+          "payout": "¥330"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "2",
+          "payout": "¥1220"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "2",
+          "payout": "¥330"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "21",
+    "place_name": "芦屋"
+  },
+  {
+    "race_num": "8",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "3-6-2",
+          "payout": "¥13840"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "2=3=6",
+          "payout": "¥1720"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "3-6",
+          "payout": "¥3190"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "3=6",
+          "payout": "¥1650"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "3=6",
+          "payout": "¥470"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "3",
+          "payout": "¥1360"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "3",
+          "payout": "¥570"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "21",
+    "place_name": "芦屋"
+  },
+  {
+    "race_num": "9",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-2-3",
+          "payout": "¥1400"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=2=3",
+          "payout": "¥430"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-2",
+          "payout": "¥660"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=2",
+          "payout": "¥460"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=2",
+          "payout": "¥220"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥130"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥100"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "21",
+    "place_name": "芦屋"
+  },
+  {
+    "race_num": "10",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-4-6",
+          "payout": "¥1060"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=4=6",
+          "payout": "¥520"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-4",
+          "payout": "¥350"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=4",
+          "payout": "¥350"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=4",
+          "payout": "¥150"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥110"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥100"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "21",
+    "place_name": "芦屋"
+  },
+  {
+    "race_num": "11",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-3-2",
+          "payout": "¥1390"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=2=3",
+          "payout": "¥590"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-3",
+          "payout": "¥460"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=3",
+          "payout": "¥450"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=3",
+          "payout": "¥190"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥100"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥100"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "21",
+    "place_name": "芦屋"
+  },
+  {
+    "race_num": "12",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-5-4",
+          "payout": "¥3040"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=4=5",
+          "payout": "¥940"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-5",
+          "payout": "¥880"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=5",
+          "payout": "¥680"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=5",
+          "payout": "¥250"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥130"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥100"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "21",
+    "place_name": "芦屋"
+  },
+  {
+    "race_num": "1",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-2-3",
+          "payout": "¥1470"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=2=3",
+          "payout": "¥530"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-2",
+          "payout": "¥620"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=2",
+          "payout": "¥320"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=2",
+          "payout": "¥130"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥280"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥130"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "24",
+    "place_name": "大村"
+  },
+  {
+    "race_num": "2",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "2-3-4",
+          "payout": "¥3180"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "2=3=4",
+          "payout": "¥420"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "2-3",
+          "payout": "¥1620"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "2=3",
+          "payout": "¥1530"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "2=3",
+          "payout": "¥140"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "2",
+          "payout": "¥590"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "2",
+          "payout": "¥320"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "24",
+    "place_name": "大村"
+  },
+  {
+    "race_num": "3",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "3-4-5",
+          "payout": "¥3020"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "3=4=5",
+          "payout": "¥840"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "3-4",
+          "payout": "¥580"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "3=4",
+          "payout": "¥330"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "3=4",
+          "payout": "¥110"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "3",
+          "payout": "¥210"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "3",
+          "payout": "¥100"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "24",
+    "place_name": "大村"
+  },
+  {
+    "race_num": "4",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "5-2-4",
+          "payout": "¥3350"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "2=4=5",
+          "payout": "¥1550"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "5-2",
+          "payout": "¥340"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "2=5",
+          "payout": "¥240"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "2=5",
+          "payout": "¥160"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "5",
+          "payout": "¥100"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "5",
+          "payout": "¥120"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "24",
+    "place_name": "大村"
+  },
+  {
+    "race_num": "5",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-2-3",
+          "payout": "¥320"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=2=3",
+          "payout": "¥160"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-2",
+          "payout": "¥260"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=2",
+          "payout": "¥170"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=2",
+          "payout": "¥110"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥140"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥100"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "24",
+    "place_name": "大村"
+  },
+  {
+    "race_num": "6",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "4-3-2",
+          "payout": "¥15640"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "2=3=4",
+          "payout": "¥930"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "4-3",
+          "payout": "¥2590"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "3=4",
+          "payout": "¥570"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "3=4",
+          "payout": "¥190"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "4",
+          "payout": "¥1110"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "4",
+          "payout": "¥300"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "24",
+    "place_name": "大村"
+  },
+  {
+    "race_num": "7",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-2-3",
+          "payout": "¥490"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=2=3",
+          "payout": "¥140"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-2",
+          "payout": "¥430"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=2",
+          "payout": "¥310"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=2",
+          "payout": "¥120"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥100"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥100"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "24",
+    "place_name": "大村"
+  },
+  {
+    "race_num": "8",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-3-6",
+          "payout": "¥1260"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=3=6",
+          "payout": "¥470"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-3",
+          "payout": "¥560"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=3",
+          "payout": "¥400"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=3",
+          "payout": "¥210"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥340"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥130"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "24",
+    "place_name": "大村"
+  },
+  {
+    "race_num": "9",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-5-4",
+          "payout": "¥5640"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=4=5",
+          "payout": "¥2110"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-5",
+          "payout": "¥1580"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=5",
+          "payout": "¥1220"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=5",
+          "payout": "¥400"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥150"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥100"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "24",
+    "place_name": "大村"
+  },
+  {
+    "race_num": "10",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "2-1-3",
+          "payout": "¥880"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=2=3",
+          "payout": "¥250"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "2-1",
+          "payout": "¥290"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=2",
+          "payout": "¥140"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=2",
+          "payout": "¥100"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "2",
+          "payout": "¥130"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "2",
+          "payout": "¥100"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "24",
+    "place_name": "大村"
+  },
+  {
+    "race_num": "11",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-3-2",
+          "payout": "¥1270"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=2=3",
+          "payout": "¥680"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-3",
+          "payout": "¥270"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=3",
+          "payout": "¥360"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=3",
+          "payout": "¥130"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥100"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥100"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "24",
+    "place_name": "大村"
+  },
+  {
+    "race_num": "12",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "3-1-5",
+          "payout": "¥5860"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=3=5",
+          "payout": "¥720"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "3-1",
+          "payout": "¥2460"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=3",
+          "payout": "¥670"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=3",
+          "payout": "¥300"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "3",
+          "payout": "¥350"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "3",
+          "payout": "¥190"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "24",
+    "place_name": "大村"
+  },
+  {
+    "race_num": "1",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-4-2",
+          "payout": "¥2960"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=2=4",
+          "payout": "¥710"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-4",
+          "payout": "¥950"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=4",
+          "payout": "¥690"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=4",
+          "payout": "¥260"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥170"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥130"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "06",
+    "place_name": "浜名湖"
+  },
+  {
+    "race_num": "2",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "2-1-3",
+          "payout": "¥7940"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=2=3",
+          "payout": "¥1090"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "2-1",
+          "payout": "¥2330"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=2",
+          "payout": "¥620"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=2",
+          "payout": "¥220"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "2",
+          "payout": "¥1110"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "2",
+          "payout": "¥190"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "06",
+    "place_name": "浜名湖"
+  },
+  {
+    "race_num": "3",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-2-4",
+          "payout": "¥1780"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=2=4",
+          "payout": "¥670"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-2",
+          "payout": "¥530"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=2",
+          "payout": "¥360"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=2",
+          "payout": "¥150"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥140"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥100"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "06",
+    "place_name": "浜名湖"
+  },
+  {
+    "race_num": "4",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-3-2",
+          "payout": "¥1740"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=2=3",
+          "payout": "¥610"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-3",
+          "payout": "¥470"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=3",
+          "payout": "¥470"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=3",
+          "payout": "¥240"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥140"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥100"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "06",
+    "place_name": "浜名湖"
+  },
+  {
+    "race_num": "5",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "5-1-2",
+          "payout": "¥4030"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=2=5",
+          "payout": "¥410"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "5-1",
+          "payout": "¥1620"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=5",
+          "payout": "¥660"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=5",
+          "payout": "¥150"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "5",
+          "payout": "¥430"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "5",
+          "payout": "¥210"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "06",
+    "place_name": "浜名湖"
+  },
+  {
+    "race_num": "6",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "2-1-5",
+          "payout": "¥7180"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=2=5",
+          "payout": "¥1970"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "2-1",
+          "payout": "¥1110"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=2",
+          "payout": "¥450"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=2",
+          "payout": "¥270"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "2",
+          "payout": "¥630"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "2",
+          "payout": "¥170"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "06",
+    "place_name": "浜名湖"
+  },
+  {
+    "race_num": "7",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-2-4",
+          "payout": "¥4800"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=2=4",
+          "payout": "¥2280"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-2",
+          "payout": "¥890"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=2",
+          "payout": "¥840"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=2",
+          "payout": "¥370"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥160"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥100"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "06",
+    "place_name": "浜名湖"
+  },
+  {
+    "race_num": "8",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-2-4",
+          "payout": "¥1730"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=2=4",
+          "payout": "¥500"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-2",
+          "payout": "¥780"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=2",
+          "payout": "¥650"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=2",
+          "payout": "¥210"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥120"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥130"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "06",
+    "place_name": "浜名湖"
+  },
+  {
+    "race_num": "9",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "2-6-1",
+          "payout": "¥51200"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=2=6",
+          "payout": "¥1640"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "2-6",
+          "payout": "¥15230"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "2=6",
+          "payout": "¥5880"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "2=6",
+          "payout": "¥900"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "2",
+          "payout": "¥1040"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "2",
+          "payout": "¥670"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "06",
+    "place_name": "浜名湖"
+  },
+  {
+    "race_num": "10",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-4-3",
+          "payout": "¥2000"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=3=4",
+          "payout": "¥700"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-4",
+          "payout": "¥430"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=4",
+          "payout": "¥270"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=4",
+          "payout": "¥130"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥240"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥110"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "06",
+    "place_name": "浜名湖"
+  },
+  {
+    "race_num": "11",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "1-4-2",
+          "payout": "¥750"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "1=2=4",
+          "payout": "¥240"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "1-4",
+          "payout": "¥350"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "1=4",
+          "payout": "¥300"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "1=4",
+          "payout": "¥130"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "1",
+          "payout": "¥120"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "1",
+          "payout": "¥100"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "06",
+    "place_name": "浜名湖"
+  },
+  {
+    "race_num": "12",
+    "payouts": {
+      "3連単": [
+        {
+          "combination": "3-6-2",
+          "payout": "¥81170"
+        }
+      ],
+      "3連複": [
+        {
+          "combination": "2=3=6",
+          "payout": "¥6340"
+        }
+      ],
+      "2連単": [
+        {
+          "combination": "3-6",
+          "payout": "¥10560"
+        }
+      ],
+      "2連複": [
+        {
+          "combination": "3=6",
+          "payout": "¥5350"
+        }
+      ],
+      "拡連複": [
+        {
+          "combination": "3=6",
+          "payout": "¥1220"
+        }
+      ],
+      "単勝": [
+        {
+          "combination": "3",
+          "payout": "¥890"
+        }
+      ],
+      "複勝": [
+        {
+          "combination": "3",
+          "payout": "¥390"
+        }
+      ]
+    },
+    "date": "20250807",
+    "place_code": "06",
+    "place_name": "浜名湖"
+  }
+]
