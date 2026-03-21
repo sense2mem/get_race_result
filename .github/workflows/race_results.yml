@@ -1,23 +1,48 @@
-name: Daily Boat Race Results
+name: Boat Race Results
+
 permissions:
   contents: write
 
 on:
   schedule:
-    - cron: '0 14 * * *'  # JST 23:00 (UTC 14:00)
+    - cron: '0 14 * * *' # JST 23:00
   workflow_dispatch:
+    inputs:
+      mode:
+        description: 'daily: 当日分のみ / backfill: 過去データをまとめて取得'
+        required: true
+        default: 'backfill'
+        type: choice
+        options:
+          - backfill
+          - daily
+      days:
+        description: 'backfill 時に取得する日数'
+        required: false
+        default: '365'
+        type: string
+      end_date:
+        description: 'backfill の終了日 (YYYYMMDD)。空欄なら実行日(JST)'
+        required: false
+        default: ''
+        type: string
+      skip_existing:
+        description: '既存 JSON がある日付はスキップする'
+        required: false
+        default: true
+        type: boolean
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.x'
+          python-version: '3.11'
 
       - name: Install dependencies
         run: |
@@ -25,11 +50,33 @@ jobs:
           pip install requests beautifulsoup4
 
       - name: Run script
+        env:
+          INPUT_MODE: ${{ github.event.inputs.mode || 'daily' }}
+          INPUT_DAYS: ${{ github.event.inputs.days || '365' }}
+          INPUT_END_DATE: ${{ github.event.inputs.end_date || '' }}
+          INPUT_SKIP_EXISTING: ${{ github.event.inputs.skip_existing || 'true' }}
         run: |
-          python get_race_results.py
+          set -e
+
+          if [ "$INPUT_MODE" = "backfill" ]; then
+            CMD="python get_race_results.py --days $INPUT_DAYS --output-dir results"
+
+            if [ -n "$INPUT_END_DATE" ]; then
+              CMD="$CMD --end-date $INPUT_END_DATE"
+            fi
+
+            if [ "$INPUT_SKIP_EXISTING" = "true" ]; then
+              CMD="$CMD --skip-existing"
+            fi
+          else
+            CMD="python get_race_results.py --output-dir results"
+          fi
+
+          echo "Run: $CMD"
+          eval "$CMD"
 
       - name: Commit results
         uses: EndBug/add-and-commit@v9
         with:
-          add: '*.json'
+          add: 'results/*.json'
           message: 'Update race results'
