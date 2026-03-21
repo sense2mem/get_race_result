@@ -59,10 +59,18 @@ python get_race_results.py --days 3 --end-date 20260322 --output-dir results_tes
 
 - `mode`: `backfill`
 - `days`: `3` で試験、問題なければ `365`
+- `start_date`: 期間指定したい場合に `YYYYMMDD`
 - `end_date`: 空欄、または `YYYYMMDD`
 - `skip_existing`: `true`
 
 成功すると `results/*.json` がコミットされます。
+
+期間指定の例:
+
+- `mode`: `backfill`
+- `start_date`: `20250301`
+- `end_date`: `20250731`
+- `skip_existing`: `true`
 
 ## 出力先
 
