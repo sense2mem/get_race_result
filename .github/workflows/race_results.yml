@@ -5,7 +5,8 @@ permissions:
 
 on:
   schedule:
-    - cron: '0 14 * * *' # JST 23:00
+    - cron: '17 23 * * *'
+      timezone: 'Asia/Tokyo'
   workflow_dispatch:
     inputs:
       mode:
@@ -54,6 +55,20 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4
 
+      - name: Resolve target date
+        id: target
+        run: |
+          echo "utc_now=$(date -u '+%F %T UTC')" >> "$GITHUB_OUTPUT"
+          echo "jst_now=$(TZ=Asia/Tokyo date '+%F %T JST')" >> "$GITHUB_OUTPUT"
+          echo "target_date=$(TZ=Asia/Tokyo date -d '3 hours ago' +%Y%m%d)" >> "$GITHUB_OUTPUT"
+
+      - name: Show timing
+        run: |
+          echo "github.event.schedule = ${{ github.event.schedule }}"
+          echo "UTC now  = ${{ steps.target.outputs.utc_now }}"
+          echo "JST now  = ${{ steps.target.outputs.jst_now }}"
+          echo "Target   = ${{ steps.target.outputs.target_date }}"
+          
       - name: Run script
         env:
           INPUT_MODE: ${{ github.event.inputs.mode || 'daily' }}
