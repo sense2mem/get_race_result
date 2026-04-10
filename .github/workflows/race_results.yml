@@ -5,7 +5,7 @@ permissions:
 
 on:
   schedule:
-    - cron: '11 23 * * *'
+    - cron: '30 22 * * *'
       timezone: 'Asia/Tokyo'
   workflow_dispatch:
     inputs:
